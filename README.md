@@ -58,7 +58,9 @@ EXAMPLE:
     you can check the following Dork list http://www.conzu.de/en/google-dork-liste-2018-conzu/
 
 # Termux
-To install on termux run pip2 and python2 instead of pip and python
+
+First on termux pip2 install -r requirements.txt 
+To run on termux python2 DorkMe.py --help
 
 # Contact Me
 Name: Eduardo
